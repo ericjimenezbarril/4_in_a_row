@@ -24,4 +24,4 @@ Welcome to the Connect Four project repository! This game was developed as part 
   -**Dado:** Choose who starts. Roll a die to make it random!
 
 ## Technologies Used
-This project is implemented in C, showcasing advanced programming techniques and algorithms, especially in the development of the AI opponent.
+This project is implemented in C, showcasing advanced programming techniques and algorithms, especially in the development of MiniMax algorithm.
